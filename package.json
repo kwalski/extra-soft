@@ -17,5 +17,20 @@
         "path": "./themes/extra-soft-color-theme.json"
       }
     ]
+  },
+  "icon": "icon.png",
+  "keywords": [
+    "extra soft",
+    "extradark",
+    "extra",
+    "theme",
+    "dark",
+    "soft palette",
+    "soft colors"
+  ],
+  "publisher": "gi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kwalski/extra-soft"
   }
 }
