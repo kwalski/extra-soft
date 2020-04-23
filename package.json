@@ -1,8 +1,8 @@
 {
   "name": "extra-soft",
-  "displayName": "extra-soft",
+  "displayName": "Extra Soft",
   "description": "Dark theme with extra soft palette designed for code readability and reduce eye strain",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.40.0"
   },
@@ -12,7 +12,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "extra-soft",
+        "label": "Extra Soft",
         "uiTheme": "vs-dark",
         "path": "./themes/extra-soft-color-theme.json"
       }
@@ -21,6 +21,7 @@
   "icon": "icon.png",
   "keywords": [
     "extra soft",
+    "Extra Soft",
     "extradark",
     "extra",
     "theme",
