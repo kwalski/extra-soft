@@ -410,7 +410,7 @@
     {
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#e3e3e0"
       }
     },
     {
@@ -518,7 +518,7 @@
     {
       "scope": ["meta.preprocessor", "entity.name.function.preprocessor"],
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#e3e3e0"
       }
     },
     {
@@ -560,7 +560,7 @@
     {
       "scope": ["storage.modifier", "keyword.operator.noexcept"],
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#95978a"
       }
     },
     {
@@ -598,7 +598,7 @@
         "punctuation.section.embedded"
       ],
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#95978a"
       }
     },
     {
@@ -617,19 +617,19 @@
         "source.coffee.embedded"
       ],
       "settings": {
-        "foreground": "#9CDCFE"
+        "foreground": "#e3e3e0"
       }
     },
     {
       "scope": "keyword",
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#95978a"
       }
     },
     {
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#95978a"
       }
     },
     {
@@ -652,7 +652,7 @@
         "keyword.operator.wordlike"
       ],
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#e3e3e0"
       }
     },
     {
@@ -667,7 +667,7 @@
         "punctuation.section.embedded.end.php"
       ],
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#e3e3e0"
       }
     },
     {
@@ -695,7 +695,7 @@
     {
       "scope": "variable.language",
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#95978a"
       }
     },
     {
@@ -724,13 +724,13 @@
     {
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#4298B5"
+        "foreground": "#95978a"
       }
     },
     {
       "scope": ["punctuation", "keyword.other", "keyword.operator"],
       "settings": {
-        "foreground": "#4298B5"
+        "foreground": "#e3e3e0"
       }
     },
     {
@@ -741,7 +741,7 @@
         "string.unquoted"
       ],
       "settings": {
-        "foreground": "#4298B5"
+        "foreground": "#e3e3e0"
       }
     },
     {
@@ -754,7 +754,7 @@
     {
       "scope": ["entity.name.tag", "entity.name.selector"],
       "settings": {
-        "foreground": "#4298B5",
+        "foreground": "#95978a",
         "fontStyle": ""
       }
     },
@@ -794,7 +794,7 @@
     {
       "scope": ["variable.language"],
       "settings": {
-        "foreground": "#4298B5"
+        "foreground": "#95978a"
       }
     },
     {
