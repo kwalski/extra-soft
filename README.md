@@ -10,7 +10,7 @@ Certain moderns monitors and laptop screens completely turn off absolute black p
 
 ## Soft Color Palette
 
-![screenshot](https://raw.githubusercontent.com/kwalski/extra-soft/master/screenshot.jpg)
+![screenshot](https://raw.githubusercontent.com/kwalski/extra-soft/master/screenshot-v0.1.1.png)
 
 ## [CHANGELOG](https://github.com/kwalski/extra-soft/raw/master/CHANGELOG.md)
 
